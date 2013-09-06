@@ -1,3 +1,8 @@
+Patches
+=======
+
+GitPython has not released a patch that allows the library to figure out the active process user. So, this branch pulls #43 from gitpython-developers/GitPython @f362d10fa24395c21b1629923ccd705ba73ae996.
+
 ==========
 GitPython
 ==========
